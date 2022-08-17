@@ -1,4 +1,4 @@
-#candy-shop-app
+# candy-shop-app
 Candy Shop App - GADS 2020
 
 Emulate Candy Shop App
